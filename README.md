@@ -40,26 +40,13 @@ Real-time dashboards show order status, inventory levels, and dealer performance
 ### 📁 Project Folder Structure
 
 ```
-WhatsNext-Vision-Motors-Salesforce-CRM/
+-WhatsNext_Vision_Motors.docx
+-WhatsNext Vision Motors/
 │
-├── apex/
-│   ├── VehicleOrderTrigger.trigger
-│   ├── VehicleOrderHandler.cls
-│   ├── VehicleOrderBatch.cls
-│   └── VehicleOrderBatchScheduler.cls
-│
-├── flows/
-│   ├── DealerAssignmentFlow.flow-meta.xml
-│   └── TestDriveReminderFlow.flow-meta.xml
-│
-├── objects/
-│   ├── Vehicle__c.object-meta.xml
-│   ├── Dealer__c.object-meta.xml
-│   └── Customer__c.object-meta.xml
-│
-├── reports_dashboards/
-│   ├── OrderSummaryDashboard.dashboard-meta.xml
-│   └── DealerPerformanceDashboard.dashboard-meta.xml
-│
-├── README.md
+├── Data Management-Objects/
+├── Data Management-Tabs/
+├── Data Management-App Manager/
+├── Data Management-Fields/
+├── Automation-Flows/
+└── Apex and Batch Class/ 
 ```
