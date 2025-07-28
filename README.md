@@ -37,8 +37,9 @@ Flow automation sends email reminders to customers a day before their scheduled 
 ### Dashboards & Reports
 Real-time dashboards show order status, inventory levels, and dealer performance—helping management make quick, data-driven decisions.
 
-## Project Structure
-'''
+### 📁 Project Folder Structure
+
+```
 WhatsNext-Vision-Motors-Salesforce-CRM/
 │
 ├── apex/
@@ -61,5 +62,4 @@ WhatsNext-Vision-Motors-Salesforce-CRM/
 │   └── DealerPerformanceDashboard.dashboard-meta.xml
 │
 ├── README.md
-└── .gitignore
-'''
+```
